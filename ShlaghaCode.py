@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import scipy as sp
 from scipy import integrate
 import MyTicToc as mt
-import pandas as pd
+
 
 # Definition of parameters
 a = 1
